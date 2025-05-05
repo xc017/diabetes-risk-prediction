@@ -13,6 +13,8 @@ It reflects both academic practice and personal interest in predictive modeling,
 
 ## 🔍 Dataset Features (Anonymized or Synthetic)
 
+Data source: https://www.kaggle.com/datasets/marshalpatel3558/diabetes-prediction-dataset
+
 - **Demographics**: Age, Sex, Ethnicity  
 - **Biometrics**: BMI, Waist, Blood Pressure  
 - **Labs**: Glucose, HbA1c, Cholesterol, GGT, Uric Acid  
