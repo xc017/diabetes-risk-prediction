@@ -17,7 +17,7 @@ It reflects both academic practice and personal interest in predictive modeling,
 - **Biometrics**: BMI, Waist, Blood Pressure  
 - **Labs**: Glucose, HbA1c, Cholesterol, GGT, Uric Acid  
 - **Lifestyle**: Physical Activity, Smoking, Alcohol, Nutrition  
-- **Target Variable**: Diabetes diagnosis (binary classification)
+- **Target Variable**: Diabetes risk classification (classification)
 
 ---
 
